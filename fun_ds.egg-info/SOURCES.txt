@@ -1,0 +1,6 @@
+README.md
+pyproject.toml
+fun_ds.egg-info/PKG-INFO
+fun_ds.egg-info/SOURCES.txt
+fun_ds.egg-info/dependency_links.txt
+fun_ds.egg-info/top_level.txt
